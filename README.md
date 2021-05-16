@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Its Tongoona Mujera
+Its <b>Tongoona Mujera</b>
 
 <!--
 **tongoonamujera/tongoonamujera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
