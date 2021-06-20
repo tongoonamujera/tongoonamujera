@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 - I obsess about finding better ways to do things as a programmer and as an individual.
 
+## Personal Stats
+![TONGOONA MUJERA's github stats](https://github-readme-stats.vercel.app/api?username=tongoonamujera)
