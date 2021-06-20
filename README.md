@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Studying
-- 🔭 I’m currently working on My own company and Studing at ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🔭 I’m currently Studing at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 - I am a full-stack software developer
 
