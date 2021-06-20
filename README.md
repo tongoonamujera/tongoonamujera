@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ## Studying
 - 🔭 I’m currently working on My own company and Studing at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-I am a full-stack software developer, javascript enthusiast, and photographer.
+- I am a full-stack software developer
 
-I enjoy thought-provoking conversations about new languages, frameworks, and the African tech start-up scene.
+- I enjoy thought-provoking conversations about new languages and frameworks
 
-I obsess about finding better ways to do things as a programmer and as an individual.
+- I obsess about finding better ways to do things as a programmer and as an individual.
 
