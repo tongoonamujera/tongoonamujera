@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 
 ## Personal Stats
 ![TONGOONA MUJERA's github stats](https://github-readme-stats.vercel.app/api?username=tongoonamujera)
+
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongoonamujera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
