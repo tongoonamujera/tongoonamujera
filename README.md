@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongoonamujera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongoonamujera&show_icons=true&theme=midnight-purple&layout=compact" alt="tongoonamujera" />
