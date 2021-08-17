@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 ## Personal Stats
 ![TONGOONA MUJERA's github stats](https://github-readme-stats.vercel.app/api?username=tongoonamujera)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tongoonamujera&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
 
 ## Languages
