@@ -14,6 +14,13 @@
     </a>
 </div>
 
+<div align="center" style="margin: 40px 0">
+    <!-- Followers -->
+    <a href="https://github.com/tongoonamujeratab=followers">
+        <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/tongoonmujera?style=flat-square">
+    </a>
+</div>
+
 <!--
 **tongoonamujera/tongoonamujera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
