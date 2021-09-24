@@ -1,12 +1,18 @@
-### Hi there 👋
+
 <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-<h>Its <b>Tongoona Mujera</b></h>
-
 <div>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
+    <span>Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"></span>
 </div>
+<h>Its <b>Tongoona Mujera</b></h>
 <h1><img align="center" src="https://media.giphy.com/media/rlUy2kgxiNm7b2l0lG/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
+
+
+<div style="margin: 40px 0">
+    <a href="https://github.com/topdev0729/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=topdeveloper0729&color=DE002D">
+    </a>
+</div>
 
 <!--
 **tongoonamujera/tongoonamujera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
