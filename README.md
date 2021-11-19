@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 - As developer, I always believe there is something new to discover.
 - Designing programmes that are truly helpful to users is my ultimate goal on every project i worked on.
-- Continually increasing my skills to present myself with better solution, through learning new technologies is my another one of my ultimate goals
+- Continually increasing my skills to present myself with better solution, through learning new technologies is my another ultimate.
 
 ## Personal Stats
 ![TONGOONA MUJERA's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tongoonamujera&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
